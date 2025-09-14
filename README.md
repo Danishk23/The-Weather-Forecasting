@@ -29,8 +29,7 @@ https://the-weather-forecasting.netlify.app
 - Clone the repository:
 
 ```bash
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
-
+git clone https://github.com/Danishk23/The-Weather-Forecasting.git
 ```
 
 - Install the packages using the command `npm install`
@@ -57,3 +56,4 @@ Check `packages.json` for details
 
 <br/>
 Thank You ☺
+
